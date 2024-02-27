@@ -1,0 +1,13 @@
+az igazi ET	100	ufo
+oreg bicikli	40	jarmu
+KSI's lamborghini premium	999999	jarmu
+Mona Lisa	1000000	festmenyaz igazi ET	100	ufo
+oreg bicikli	400	jarmu
+KSI's lamborghini premium	959	jarmu
+Mona Lisa	3321	festmenyaz igazi ET	100	ufo
+oreg bicikli	40	jarmu
+KSI's lamborghini premium	1299	jarmu
+Mona Lisa	1000	festmenyaz igazi ET	100	ufo
+oreg bicikli	70	jarmu
+KSI's lamborghini premium	999	jarmu
+Mona Lisa	105240	festmeny

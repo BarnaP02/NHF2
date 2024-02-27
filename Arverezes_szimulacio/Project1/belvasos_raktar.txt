@@ -1,0 +1,16 @@
+igazi ET	100	ufo
+oreg bicikli	40	jarmu
+KSI's lamborghini premium	999999	jarmu
+Mona Lisa	1000000	festmeny
+igazi IT	100	ufo
+kevesbe oreg bicikli	400	jarmu
+KSI's toy lamborghini premium	959	jarmu
+Mona Lisa from TESCO	3321	festmeny
+agazi ET	100	ufo
+negyon oreg bicikli	40	jarmu
+KSI's mini lamborghini premium	1299	jarmu
+Mona Elsa	1000	festmeny
+nem igazi ET	1200	ufo
+rozsdas bicikli	70	jarmu
+KSI's mini toy lamborghini premium	999	jarmu
+Mona Lisa but dirty	105240	festmeny

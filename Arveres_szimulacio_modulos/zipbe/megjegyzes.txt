@@ -1,0 +1,1 @@
+A fájlba író függvény még nem működik és így a harmadik bekért paraméter nem csinál semmit

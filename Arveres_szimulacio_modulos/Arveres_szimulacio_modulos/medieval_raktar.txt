@@ -1,0 +1,40 @@
+Elven Bow	500	Weapon
+Dragon Scale Armor	1000	Armor
+Dwarven Hammer	800	Weapon
+Sorcerer's Staff	1500	Weapon
+Phoenix Feather Wand	1200	Weapon
+Wizard's Robe	600	Apparel
+Crystal Ball	300	Divination Tool
+Celestial Sword	2000	Weapon
+Unicorn Horn	700	Curio
+Potion of Healing	50	Consumable
+Leather-bound Grimoire	400	Book
+Enchanted Amulet	250	Jewelry
+Fairy Wings	200	Costume Accessory
+Mermaid's Tear	300	Curio
+Fire-breathing Dragon Figurine	150	Collectible
+Moonstone Pendant	350	Jewelry
+Golem Guardian Statue	600	Decor
+Elixir of Invisibility	100	Consumable
+Crystal Vial	80	Container
+Wizard's Hat	200	Apparel
+Lich's Phylactery	2500	Artifact
+Shield of Light	800	Armor
+Wand of Frost	900	Weapon
+Enchanted Mirror	400	Artifact
+Fountain of Youth	3000	Curio
+Dragon Eye Gemstone	700	Jewelry
+Cloak of Invisibility	1000	Apparel
+Enchanted Dagger	300	Weapon
+Magic Carpet	500	Travel Accessory
+Spellbook	400	Book
+Amulet of Teleportation	250	Jewelry
+Phoenix Feather Quill	150	Writing Instrument
+Crystal Skull	200	Curio
+Magical Compass	100	Tool
+Cursed Ring	50	Jewelry
+Grim Reaper's Scythe	1200	Weapon
+Crystal Chalice	300	Curio
+Enchanted Flute	250	Musical Instrument
+Mystic Orb	200	Divination Tool
+Vampire Fang Necklace	180	Jewelry

@@ -1,0 +1,40 @@
+Neural Implant	1000	Cybernetic Upgrade
+Holographic Display	500	Accessory
+Plasma Blade	800	Weapon
+Cyberdeck	1500	Device
+Smart Glasses	300	Accessory
+Bio-Mechanical Arm	2000	Cybernetic Upgrade
+Nano-fiber Jacket	600	Apparel
+Data Jack	400	Cybernetic Upgrade
+Stealth Cloak	1200	Apparel
+EMP Grenade	250	Weapon
+Neon Bike	2000	Vehicle
+Augmented Reality Contact Lens	800	Accessory
+Cybernetic Leg	1800	Cybernetic Upgrade
+Fusion Pistol	900	Weapon
+Hacker Toolkit	350	Device
+Exoskeleton Suit	2500	Apparel
+Cybernetic Eye	1000	Cybernetic Upgrade
+Virtual Reality Simulator	700	Accessory
+Energy Shield	500	Armor
+Hoverboard	400	Vehicle
+Neural Interface Gauntlet	1500	Cybernetic Upgrade
+Plasma Rifle	2000	Weapon
+Cybernetic Heart	2000	Cybernetic Upgrade
+Cybernetic Spine	1500	Cybernetic Upgrade
+Cyberpunk Trench Coat	600	Apparel
+Nano-drone Swarm	300	Device
+Gravity Boots	800	Footwear
+Neural Disruptor	1200	Weapon
+Holographic Tattoo	400	Accessory
+Anti-Gravity Motorcycle	3000	Vehicle
+Memory Enhancement Chip	1000	Cybernetic Upgrade
+Energy Whip	700	Weapon
+Cybernetic Neural Implant	2500	Cybernetic Upgrade
+Nanotech Stealth Suit	1500	Apparel
+Plasma Grenade	400	Weapon
+Cybernetic Retina	1800	Cybernetic Upgrade
+Jetpack	2000	Device
+Smart Wristband	150	Accessory
+Cybernetic Skeleton	2500	Cybernetic Upgrade
+Plasma Sword	900	Weapon

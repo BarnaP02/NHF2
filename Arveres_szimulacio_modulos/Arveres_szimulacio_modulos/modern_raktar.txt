@@ -1,0 +1,39 @@
+Mona Lisa	1000000	Artwork
+Tesla Model S	80000	Vehicle
+Colt 1911	1500	Firearm
+David	500000	Sculpture
+Diamond Necklace	10000	Jewelry
+iPhone 12 Pro	1200	Tech
+Rolex Submariner	10000	Jewelry
+Gucci Handbag	1500	Fashion Accessory
+Fender Stratocaster	1500	Musical Instrument
+Canon EOS R5	3500	Tech
+Louis Vuitton Luggage	3000	Travel Accessory
+Nintendo Switch	300	Tech
+Chanel Perfume	250	Fragrance
+Kobe Bryant Rookie Card	10000	Collectible
+iMac Pro	5000	Tech
+Ray-Ban Sunglasses	150	Jewelry
+Sony A7 III	2000	Tech
+Nike Air Jordan Sneakers	200	Footwear
+Sonos One Speaker	150	Tech
+Cartier Love Bracelet	6000	Jewelry
+Vincent van Gogh Painting	800000	Artwork
+BMW M5	70000	Vehicle
+Beretta 92FS	1000	Firearm
+Venus de Milo	400000	Sculpture
+Emerald Ring	8000	Jewelry
+Samsung Galaxy S21	900	Tech
+Omega Speedmaster	8000	Jewelry
+Louis Vuitton Wallet	500	Fashion Accessory
+Gibson Les Paul	2000	Musical Instrument
+Nikon D850	3000	Tech
+Samsonite Suitcase	250	Travel Accessory
+PlayStation 5	500	Tech
+Dior Lipstick	50	Cosmetics
+Tom Brady Autographed Football	3000	Collectible
+MacBook Pro	2000	Tech
+Leica M10	7000	Tech
+Hermes Scarf	500	Fashion Accessory
+Bose Noise-Canceling Headphones	350	Tech
+Beats Studio3 Wireless Headphones	250	Tech
